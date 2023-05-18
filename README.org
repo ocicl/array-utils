@@ -1,0 +1,9 @@
+* array-utils
+
+A tiny collection of utilities to work with arrays and vectors.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/Shinmera/array-utils.git |
+| commit  | 40cea8f                                         |
+| systems | array-utils                                     |
+|---------+-------------------------------------------------|
