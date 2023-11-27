@@ -4,6 +4,6 @@ A tiny collection of utilities to work with arrays and vectors.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/array-utils.git |
-| commit  | dffb2dc                                         |
+| commit  | f4c412f                                         |
 | systems | array-utils                                     |
 |---------+-------------------------------------------------|
