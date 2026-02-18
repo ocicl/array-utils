@@ -3,7 +3,7 @@
 A tiny collection of utilities to work with arrays and vectors.
 
 |---------+-------------------------------------------------|
-| source  | git:https://github.com/Shinmera/array-utils.git |
-| commit  | b991363                                         |
+| source  | git:https://codeberg.org/shinmera/array-utils.git |
+| commit  | 0000000                                         |
 | systems | array-utils                                     |
 |---------+-------------------------------------------------|
