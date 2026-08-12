@@ -6,4 +6,4 @@ A tiny collection of utilities to work with arrays and vectors.
 | source  | git:https://codeberg.org/shinmera/array-utils.git |
 | commit  | 16e108a                                         |
 | systems | array-utils                                     |
-|---------+-------------------------------------------------|
+|---------+-------------------------------------------------| 
